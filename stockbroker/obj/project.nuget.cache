@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YJ+lRQNlYOmoPctaGE05DMw1YloukI6oYaAiiXwltrvfvcWGDhqKnPmPF6gcSc5cAu56cIcmL+dZuRdvp+bfQ==",
+  "success": true,
+  "projectFilePath": "/Users/nadia.oliveira/Documents/POC/stockBroker/stockbroker/stockbroker/stockbroker.csproj",
+  "expectedPackageFiles": [
+    "/Users/nadia.oliveira/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nadia.oliveira/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/nadia.oliveira/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/nadia.oliveira/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/nadia.oliveira/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
